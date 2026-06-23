@@ -4,7 +4,7 @@
 
 **Three.js 3D graphics skills — scenes, camera, lights, materials, geometries, animation, WebXR**
 
-[![GitHub](https://img.shields.io/badge/github-full--statck--skills%2Fthreejs-skills-green.svg)](https://github.com/full-statck-skills/threejs-skills)
+[![GitHub](https://img.shields.io/badge/github-full--stack--skills%2Fthreejs-skills-green.svg)](https://github.com/full-stack-skills/threejs-skills)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Compatible-purple.svg)](https://agentskills.io)
 
@@ -29,13 +29,13 @@ This package includes **18 skills** providing specialized knowledge, workflows, 
 ## 📦 Install
 
 ```bash
-npx skills add full-statck-skills/threejs-skills
+npx skills add full-stack-skills/threejs-skills
 ```
 
 Or install specific skills:
 
 ```bash
-npx skills add full-statck-skills/threejs-skills --skill <skill-name>
+npx skills add full-stack-skills/threejs-skills --skill <skill-name>
 ```
 
 ## 🎯 Skills (18)
@@ -70,13 +70,13 @@ Works with [Claude Code](https://code.claude.com), [Codex](https://developers.op
 **Option 1: npx skills CLI (Recommended)**
 
 ```bash
-npx skills add full-statck-skills/threejs-skills
+npx skills add full-stack-skills/threejs-skills
 ```
 
 **Option 2: Manual Installation**
 
 ```bash
-git clone https://github.com/full-statck-skills/threejs-skills.git
+git clone https://github.com/full-stack-skills/threejs-skills.git
 cp -r threejs-skills/skills/* .claude/skills/
 ```
 
@@ -87,7 +87,7 @@ For more details, see the [Claude Code Skills Guide](https://code.claude.com/doc
 | Resource | Link |
 |----------|------|
 | **Full Stack Skills** | [github.com/partme-ai/full-stack-skills](https://github.com/partme-ai/full-stack-skills) |
-| **All Skill Groups** | [github.com/full-statck-skills](https://github.com/full-statck-skills) |
+| **All Skill Groups** | [github.com/full-stack-skills](https://github.com/full-stack-skills) |
 | **Agent Skills Spec** | [agentskills.io](https://agentskills.io) |
 | **Skills CLI** | [github.com/vercel-labs/skills](https://github.com/vercel-labs/skills) |
 

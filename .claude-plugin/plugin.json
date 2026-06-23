@@ -6,8 +6,8 @@
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
   },
-  "homepage": "https://github.com/full-statck-skills/threejs-skills",
-  "repository": "https://github.com/full-statck-skills/threejs-skills",
+  "homepage": "https://github.com/full-stack-skills/threejs-skills",
+  "repository": "https://github.com/full-stack-skills/threejs-skills",
   "source": "./",
   "skills": [
     "./skills/threejs-animation",
