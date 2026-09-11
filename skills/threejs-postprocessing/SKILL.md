@@ -1,5 +1,6 @@
 ---
 name: threejs-postprocessing
+license: Apache-2.0
 description: >-
   Addon screen-space post-processing for three.js using EffectComposer, Pass base class, RenderPass, and stock passes such as UnrealBloomPass, SSAOPass, SSRPass, BokehPass, OutlinePass, FXAAPass/SMAAPass, TAARenderPass, and ShaderPass; references the Shaders addon group for underlying shader modules; contrasts with core PostProcessing class used in node/WebGPU stacks (see threejs-node-tsl and threejs-renderers).
   Use when building composer chains—not for basic renderer tone mapping alone (threejs-renderers).

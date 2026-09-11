@@ -1,5 +1,6 @@
 ---
 name: threejs-controls
+license: Apache-2.0
 description: >-
   Addon camera and object manipulation controls: OrbitControls, MapControls, FlyControls, FirstPersonControls, TrackballControls, ArcballControls, DragControls, PointerLockControls, TransformControls; damping, target focal point, and integration with the animation loop.
   Use for editor-style navigation and gizmos—not a full game character controller stack; pair with Raycaster selection patterns in threejs-objects when transforming selections.

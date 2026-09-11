@@ -1,5 +1,6 @@
 ---
 name: threejs-helpers
+license: Apache-2.0
 description: >-
   Debug and visualization helpers in three.js Core Helpers (AxesHelper, GridHelper, CameraHelper, light helpers, SkeletonHelper, bounding box helpers, PlaneHelper, PolarGridHelper, ArrowHelper) and Addons Helpers (VertexNormalsHelper, VertexTangentsHelper, RectAreaLightHelper, LightProbeHelper, ViewHelper, OctreeHelper, TextureHelper, PositionalAudioHelper, AnimationPathHelper, RapierHelper).
   Use only for development and editor overlays—not for shipping art; for gizmo-style manipulation use threejs-controls.

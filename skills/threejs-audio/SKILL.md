@@ -1,5 +1,6 @@
 ---
 name: threejs-audio
+license: Apache-2.0
 description: >-
   three.js audio spatialization: AudioListener attached to camera rig, Audio and PositionalAudio sources, AudioAnalyser for FFT/time-domain data, and integration with Web Audio API contexts; AudioLoader is referenced from threejs-loaders for file decoding.
   Use when placing 3D sound, configuring panner parameters, or visualization; not a replacement for full game audio middleware.

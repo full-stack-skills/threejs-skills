@@ -1,5 +1,6 @@
 ---
 name: threejs-textures
+license: Apache-2.0
 description: >-
   three.js textures: Texture, DataTexture, CubeTexture, CompressedTexture variants, DepthTexture, VideoTexture, CanvasTexture, 3D/array textures, Source; sampling parameters, mipmaps, anisotropy, wrap/mag/min filters; PMREMGenerator in Extras for environment map prefiltering.
   Use when configuring GPU texture objects and PMREM; for Draco/KTX2 transcoder file paths use threejs-loaders; for material map slots use threejs-materials; for output color pipeline use threejs-renderers.

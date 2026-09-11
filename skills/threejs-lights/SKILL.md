@@ -1,5 +1,6 @@
 ---
 name: threejs-lights
+license: Apache-2.0
 description: >-
   three.js lighting: AmbientLight, HemisphereLight, DirectionalLight, PointLight, SpotLight, RectAreaLight, LightProbe, IESSpotLight, ProjectorLight, shadow subtypes, and addon helpers such as RectAreaLightUniformsLib, RectAreaLightTexturesLib, LightProbeGenerator, TiledLighting.
   Use when configuring direct/indirect light, shadows, probes, or area lights; for IES file loading use threejs-loaders; for node-based light graphs use threejs-node-tsl; for debug helpers use threejs-helpers.

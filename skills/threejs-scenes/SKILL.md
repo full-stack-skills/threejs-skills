@@ -1,5 +1,6 @@
 ---
 name: threejs-scenes
+license: Apache-2.0
 description: >-
   three.js Scene graph root object, linear Fog and exponential FogExp2, Scene.background for solid colors or textures, and high-level environment background concepts that tie to PMREM and loaders in other skills.
   Use when configuring world container, atmospheric fog, or background; for HDR env map file loading use threejs-loaders; for GPU texture settings after load use threejs-textures; for tone mapping use threejs-renderers.

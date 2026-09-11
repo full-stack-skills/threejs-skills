@@ -1,5 +1,6 @@
 ---
 name: threejs-math
+license: Apache-2.0
 description: >-
   three.js math library: Vector2/3/4, Matrix3/4, Quaternion, Euler, Color, Box2/Box3, Sphere, Plane, Ray, Line3, Triangle, Frustum, Cylindrical/Spherical coords, MathUtils, and Interpolant base classes; addon math utilities such as OBB, Octree, Capsule, ConvexHull, MeshSurfaceSampler.
   Use for transforms, intersection tests, and spatial queries; for keyframe interpolation tied to AnimationMixer use threejs-animation; for picking implementation use threejs-objects with Raycaster.
