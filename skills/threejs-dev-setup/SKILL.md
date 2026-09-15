@@ -1,10 +1,7 @@
 ---
 name: threejs-dev-setup
 license: Apache-2.0
-description: >-
-  Bootstrap and toolchain guidance for three.js applications using npm, Vite/Webpack/Rollup, bare ESM import maps, and TypeScript.
-  Covers canonical import paths for `three` core versus `three/addons/` (examples/jsm re-exports), version alignment with https://threejs.org/docs/, and fixing "module not found" for loaders and controls.
-  Use when scaffolding a new 3D project, migrating bundler, or debugging resolution of addons—do not use for rendering API details (see threejs-renderers) or asset loading logic (see threejs-loaders).
+description: Bootstrap and toolchain guidance for three.js applications using npm, Vite/Webpack/Rollup, bare ESM import maps, and TypeScript. Covers canonical import paths for `three` core versus `three/addons/` (examples/jsm re-exports), version alignment with https://threejs.org/docs/, and fixing "module not found" for loaders and controls. Use when scaffolding a new 3D project, migrating bundler, or debugging resolution of addons—do not use for rendering API details (see threejs-renderers) or asset loading logic (see threejs-loaders).
 ---
 ## When to use this skill
 

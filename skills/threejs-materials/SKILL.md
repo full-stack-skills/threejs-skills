@@ -1,9 +1,7 @@
 ---
 name: threejs-materials
 license: Apache-2.0
-description: >-
-  Classic three.js materials (non-Node): MeshStandardMaterial, MeshPhysicalMaterial, Phong/Lambert/Toon/Basic, Line/Points/Sprite materials, MeshMatcapMaterial, MeshNormalMaterial, depth/distance materials, ShaderMaterial and RawShaderMaterial.
-  Use when tuning PBR maps, transparency, depth write, skinning flags, or writing GLSL in ShaderMaterial; for TSL/NodeMaterial/WebGPU shader graphs use threejs-node-tsl instead—not both for the same authoring path unless migrating.
+description: "Classic three.js materials (non-Node): MeshStandardMaterial, MeshPhysicalMaterial, Phong/Lambert/Toon/Basic, Line/Points/Sprite materials, MeshMatcapMaterial, MeshNormalMaterial, depth/distance materials, ShaderMaterial and RawShaderMaterial. Use when tuning PBR maps, transparency, depth write, skinning flags, or writing GLSL in ShaderMaterial; for TSL/NodeMaterial/WebGPU shader graphs use threejs-node-tsl instead—not both for the same authoring path unless migrating."
 ---
 ## When to use this skill
 

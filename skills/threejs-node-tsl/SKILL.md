@@ -1,9 +1,7 @@
 ---
 name: threejs-node-tsl
 license: Apache-2.0
-description: >-
-  three.js node-based shading: Nodes API surface, NodeMaterial and MeshStandardNodeMaterial-style families, TSL (Three.js Shading Language) entry at TSL.html, WebGPURenderer pairing, and core PostProcessing (class) versus addon EffectComposer at a high level.
-  Use when authoring shaders as graphs, using TSL builtins, compute-oriented nodes, or modern WebGPU pipelines; for classic MeshStandardMaterial, MeshPhysicalMaterial, and string-based ShaderMaterial GLSL use threejs-materials; for stock EffectComposer + Pass passes use threejs-postprocessing; for WebGLRenderer-only tuning without nodes use threejs-renderers.
+description: "three.js node-based shading: Nodes API surface, NodeMaterial and MeshStandardNodeMaterial-style families, TSL (Three.js Shading Language) entry at TSL.html, WebGPURenderer pairing, and core PostProcessing (class) versus addon EffectComposer at a high level. Use when authoring shaders as graphs, using TSL builtins, compute-oriented nodes, or modern WebGPU pipelines; for classic MeshStandardMaterial, MeshPhysicalMaterial, and string-based ShaderMaterial GLSL use threejs-materials; for stock EffectComposer + Pass passes use threejs-postprocessing; for WebGLRenderer-only tuning without nodes use threejs-renderers."
 ---
 ## When to use this skill
 

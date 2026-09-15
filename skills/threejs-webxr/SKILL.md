@@ -1,9 +1,7 @@
 ---
 name: threejs-webxr
 license: Apache-2.0
-description: >-
-  WebXR integration for three.js: WebXRManager and XRManager on the renderer, session initialization patterns, VRButton and ARButton helpers, XRControllerModelFactory and hand model families, XREstimatedLight, XRPlanes, and related addon Webxr utilities.
-  Use for immersive sessions and controller/hand tracking—not for standard desktop camera projection (threejs-camera) or composer post effects (threejs-postprocessing).
+description: "WebXR integration for three.js: WebXRManager and XRManager on the renderer, session initialization patterns, VRButton and ARButton helpers, XRControllerModelFactory and hand model families, XREstimatedLight, XRPlanes, and related addon Webxr utilities. Use for immersive sessions and controller/hand tracking—not for standard desktop camera projection (threejs-camera) or composer post effects (threejs-postprocessing)."
 ---
 ## When to use this skill
 

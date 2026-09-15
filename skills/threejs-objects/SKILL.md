@@ -1,9 +1,7 @@
 ---
 name: threejs-objects
 license: Apache-2.0
-description: >-
-  three.js scene graph objects: Object3D transforms and hierarchy, Group, Mesh, InstancedMesh, SkinnedMesh, BatchedMesh, LOD, Line/LineLoop/LineSegments, Points, Sprite, Bone, Skeleton, ClippingGroup; interaction via Raycaster, Layers masks, and EventDispatcher patterns.
-  Merges the former interaction scope—use for picking and layers; for pure vector math without scene graph use threejs-math; for playing skeletal clips use threejs-animation; for frustum culling internals see camera docs.
+description: "three.js scene graph objects: Object3D transforms and hierarchy, Group, Mesh, InstancedMesh, SkinnedMesh, BatchedMesh, LOD, Line/LineLoop/LineSegments, Points, Sprite, Bone, Skeleton, ClippingGroup; interaction via Raycaster, Layers masks, and EventDispatcher patterns. Merges the former interaction scope—use for picking and layers; for pure vector math without scene graph use threejs-math; for playing skeletal clips use threejs-animation; for frustum culling internals see camera docs."
 ---
 ## When to use this skill
 

@@ -1,9 +1,7 @@
 ---
 name: threejs-geometries
 license: Apache-2.0
-description: >-
-  three.js geometry authoring: BufferGeometry, typed BufferAttribute and interleaved layouts, InstancedBufferGeometry, primitive Geometries (box/sphere/torus/etc.), ExtrudeGeometry and Shape/Path/Curve from Extras, WireframeGeometry, and addon geometries such as TextGeometry, DecalGeometry, RoundedBoxGeometry.
-  Covers merged scope of procedural curves and extrusion formerly split as extras-curves; for animation morph targets see threejs-animation; for merging buffers utilities see official BufferGeometryUtils module in docs Utils addons.
+description: "three.js geometry authoring: BufferGeometry, typed BufferAttribute and interleaved layouts, InstancedBufferGeometry, primitive Geometries (box/sphere/torus/etc.), ExtrudeGeometry and Shape/Path/Curve from Extras, WireframeGeometry, and addon geometries such as TextGeometry, DecalGeometry, RoundedBoxGeometry. Covers merged scope of procedural curves and extrusion formerly split as extras-curves; for animation morph targets see threejs-animation; for merging buffers utilities see official BufferGeometryUtils module in docs Utils addons."
 ---
 ## When to use this skill
 
