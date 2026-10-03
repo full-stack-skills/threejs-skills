@@ -1,0 +1,4 @@
+interface:
+  display_name: "three.js Postprocessing"
+  short_description: "Addon screen-space post-processing for three.js using…"
+  default_prompt: "Use $threejs-postprocessing to help with my current task: Addon screen-space post-processing for three.js using EffectComposer, Pass base class, RenderPass, and stock passes such as UnrealBloomPass, SSAOPass, SSRPass, BokehPass…"

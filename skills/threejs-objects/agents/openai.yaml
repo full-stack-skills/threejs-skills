@@ -1,0 +1,4 @@
+interface:
+  display_name: "three.js Objects"
+  short_description: "three.js scene graph objects: Object3D transforms and…"
+  default_prompt: "Use $threejs-objects to help with my current task: three.js scene graph objects: Object3D transforms and hierarchy, Group, Mesh, InstancedMesh, SkinnedMesh, BatchedMesh, LOD, Line/LineLoop/LineSegments, Points, Sprite, Bone…"

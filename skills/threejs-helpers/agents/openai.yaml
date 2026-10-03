@@ -1,0 +1,4 @@
+interface:
+  display_name: "three.js Helpers"
+  short_description: "Debug and visualization helpers in three.js Core Helpers…"
+  default_prompt: "Use $threejs-helpers to help with my current task: Debug and visualization helpers in three.js Core Helpers (AxesHelper, GridHelper, CameraHelper, light helpers, SkeletonHelper, bounding box helpers, PlaneHelper, PolarGridHelper…"

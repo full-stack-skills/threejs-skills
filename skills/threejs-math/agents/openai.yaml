@@ -1,0 +1,4 @@
+interface:
+  display_name: "three.js Math"
+  short_description: "three.js math library: Vector2/3/4, Matrix3/4, Quaternion…"
+  default_prompt: "Use $threejs-math to help with my current task: three.js math library: Vector2/3/4, Matrix3/4, Quaternion, Euler, Color, Box2/Box3, Sphere, Plane, Ray, Line3, Triangle, Frustum, Cylindrical/Spherical coords, MathUtils, and…"

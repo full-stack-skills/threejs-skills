@@ -1,0 +1,4 @@
+interface:
+  display_name: "three.js Renderers"
+  short_description: "Core rendering pipeline for three.js using WebGLRenderer and…"
+  default_prompt: "Use $threejs-renderers to help with my current task: Core rendering pipeline for three.js using WebGLRenderer and WebGPURenderer, canvas sizing, device pixel ratio, color space and tone mapping, output encoding, WebGL/WebGPU render…"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "three.js Camera"
+  short_description: "three.js cameras: Camera base, PerspectiveCamera…"
+  default_prompt: "Use $threejs-camera to help with my current task: three.js cameras: Camera base, PerspectiveCamera, OrthographicCamera, CubeCamera, ArrayCamera, StereoCamera; projection matrices, aspect, FOV, orthographic frustum sizes…"

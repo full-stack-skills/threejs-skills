@@ -1,0 +1,4 @@
+interface:
+  display_name: "three.js Geometries"
+  short_description: "three.js geometry authoring: BufferGeometry, typed…"
+  default_prompt: "Use $threejs-geometries to help with my current task: three.js geometry authoring: BufferGeometry, typed BufferAttribute and interleaved layouts, InstancedBufferGeometry, primitive Geometries (box/sphere/torus/etc.), ExtrudeGeometry…"

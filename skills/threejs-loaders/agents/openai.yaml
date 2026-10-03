@@ -1,0 +1,4 @@
+interface:
+  display_name: "three.js Loaders"
+  short_description: "three.js asset I/O using LoadingManager, Cache, FileLoader…"
+  default_prompt: "Use $threejs-loaders to help with my current task: three.js asset I/O using LoadingManager, Cache, FileLoader, image and texture loaders, GLTFLoader with DRACOLoader and KTX2Loader, and common format loaders under Addons…"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "three.js Webxr"
+  short_description: "WebXR integration for three.js: WebXRManager and XRManager on…"
+  default_prompt: "Use $threejs-webxr to help with my current task: WebXR integration for three.js: WebXRManager and XRManager on the renderer, session initialization patterns, VRButton and ARButton helpers, XRControllerModelFactory and hand…"

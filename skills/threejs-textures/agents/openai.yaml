@@ -1,0 +1,4 @@
+interface:
+  display_name: "three.js Textures"
+  short_description: "three.js textures: Texture, DataTexture, CubeTexture…"
+  default_prompt: "Use $threejs-textures to help with my current task: three.js textures: Texture, DataTexture, CubeTexture, CompressedTexture variants, DepthTexture, VideoTexture, CanvasTexture, 3D/array textures, Source; sampling parameters…"

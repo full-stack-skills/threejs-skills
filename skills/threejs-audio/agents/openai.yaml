@@ -1,0 +1,4 @@
+interface:
+  display_name: "three.js Audio"
+  short_description: "three.js audio spatialization: AudioListener attached to…"
+  default_prompt: "Use $threejs-audio to help with my current task: three.js audio spatialization: AudioListener attached to camera rig, Audio and PositionalAudio sources, AudioAnalyser for FFT/time-domain data, and integration with Web Audio API…"

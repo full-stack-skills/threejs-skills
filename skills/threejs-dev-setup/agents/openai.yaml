@@ -1,0 +1,4 @@
+interface:
+  display_name: "three.js Dev Setup"
+  short_description: "Bootstrap and toolchain guidance for three.js applications…"
+  default_prompt: "Use $threejs-dev-setup to help with my current task: Bootstrap and toolchain guidance for three.js applications using npm, Vite/Webpack/Rollup, bare ESM import maps, and TypeScript."

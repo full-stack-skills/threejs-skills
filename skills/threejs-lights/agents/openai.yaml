@@ -1,0 +1,4 @@
+interface:
+  display_name: "three.js Lights"
+  short_description: "three.js lighting: AmbientLight, HemisphereLight…"
+  default_prompt: "Use $threejs-lights to help with my current task: three.js lighting: AmbientLight, HemisphereLight, DirectionalLight, PointLight, SpotLight, RectAreaLight, LightProbe, IESSpotLight, ProjectorLight, shadow subtypes, and addon…"

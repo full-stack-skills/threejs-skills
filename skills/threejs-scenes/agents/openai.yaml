@@ -1,0 +1,4 @@
+interface:
+  display_name: "three.js Scenes"
+  short_description: "three.js Scene graph root object, linear Fog and exponential…"
+  default_prompt: "Use $threejs-scenes to help with my current task: three.js Scene graph root object, linear Fog and exponential FogExp2, Scene.background for solid colors or textures, and high-level environment background concepts that tie to…"

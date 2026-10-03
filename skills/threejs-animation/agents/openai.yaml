@@ -1,0 +1,4 @@
+interface:
+  display_name: "three.js Animation"
+  short_description: "three.js keyframe animation system: AnimationMixer…"
+  default_prompt: "Use $threejs-animation to help with my current task: three.js keyframe animation system: AnimationMixer, AnimationClip, AnimationAction, KeyframeTrack variants, PropertyBinding, PropertyMixer, AnimationObjectGroup, AnimationUtils…"

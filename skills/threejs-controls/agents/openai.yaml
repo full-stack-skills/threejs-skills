@@ -1,0 +1,4 @@
+interface:
+  display_name: "three.js Controls"
+  short_description: "Addon camera and object manipulation controls: OrbitControls…"
+  default_prompt: "Use $threejs-controls to help with my current task: Addon camera and object manipulation controls: OrbitControls, MapControls, FlyControls, FirstPersonControls, TrackballControls, ArcballControls, DragControls…"

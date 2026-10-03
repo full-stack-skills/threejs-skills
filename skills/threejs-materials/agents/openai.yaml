@@ -1,0 +1,4 @@
+interface:
+  display_name: "three.js Materials"
+  short_description: "Classic three.js materials (non-Node): MeshStandardMaterial…"
+  default_prompt: "Use $threejs-materials to help with my current task: Classic three.js materials (non-Node): MeshStandardMaterial, MeshPhysicalMaterial, Phong/Lambert/Toon/Basic, Line/Points/Sprite materials, MeshMatcapMaterial, MeshNormalMaterial…"

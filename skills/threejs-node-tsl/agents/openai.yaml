@@ -1,0 +1,4 @@
+interface:
+  display_name: "three.js Node Tsl"
+  short_description: "three.js node-based shading: Nodes API surface, NodeMaterial…"
+  default_prompt: "Use $threejs-node-tsl to help with my current task: three.js node-based shading: Nodes API surface, NodeMaterial and MeshStandardNodeMaterial-style families, TSL (Three.js Shading Language) entry at TSL.html, WebGPURenderer…"
